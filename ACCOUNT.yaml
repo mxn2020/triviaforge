@@ -1,0 +1,12 @@
+services:
+  convex:
+    project: TriviaForge
+  vercel:
+    project: TriviaForge
+  stripe:
+    mode: live
+  nvidia:
+    api: nvidia-nims
+  github:
+    owner: mxn2020
+    repo: triviaforge
