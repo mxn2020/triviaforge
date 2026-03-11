@@ -1,16 +1,18 @@
-id: 7c8fa1dd-bd7b-4179-96b6-d899a198bc2a
 name: triviaforge
-description: "Generates interactive trivia quizzes on any topic"
+project_scope: main
+project_type: standalone
+description: Generates interactive trivia quizzes on any topic
 tier: prototype
 lane: side-projects
 priority: low
-category: learning
-focus: false
-open_tasks: 0
 oss: false
 stack: [typescript, react, convex, vite]
-repo: https://github.com/mxn2020/triviaforge
+repo: "https://github.com/mxn2020/triviaforge"
 deploy_url: null
 last_active: 2026-03-02
-tags: [ai, convex]
-notes:
+tags: [ai, convex, trivia, quiz, education, game, learning]
+notes: null
+category: webapp
+focus: false
+open_tasks: 0
+id: 7c8fa1dd-bd7b-4179-96b6-d899a198bc2a
